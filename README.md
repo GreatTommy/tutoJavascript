@@ -6,6 +6,9 @@ Mémo imprimable ici : https://github.com/GreatTommy/tutoJavascript/blob/gh-page
 
 ### Démonstration des TPs :
 Calculatrice : https://greattommy.github.io/tutoJavascript/codes/calculatrice.html
+
 Caisse automatique : https://greattommy.github.io/tutoJavascript/codes/caisseAutomatique.html
+
 Plus ou moins : https://greattommy.github.io/tutoJavascript/codes/plusOuMoins.html
+
 Jeu du pendu : https://greattommy.github.io/tutoJavascript/codes/pendu.html
